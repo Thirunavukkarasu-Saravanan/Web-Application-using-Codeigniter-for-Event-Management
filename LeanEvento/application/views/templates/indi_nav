@@ -1,0 +1,14 @@
+<body id="wrapper">
+	<div id="hd">
+		<img id="indim" src ="imagenes/logo-blanco.png" />
+		<span id="imgtt"> LEANEVENTOS </span>
+		<a href="logout.php"> <p style="float:right;"><b> Log out </b></p></a> 
+		<div id="headtitle">
+			<nav class="menu_item">
+				<a href="Listadastartindihome.php"> Inicio </a> 
+				<a href="myevents.php"> My Events </a>
+				
+				<a href="indiprogile.php"> Individual </a> 
+				
+			</nav>	
+		</div>
